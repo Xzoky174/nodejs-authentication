@@ -1,4 +1,4 @@
-# Nodejs Authentication API
+# Nodejs Authentication API 🚀🌑
 
 Tools used:
 
@@ -8,5 +8,3 @@ Tools used:
 - Mongoose
 
 To Clone: `git clone https://github.com/Xzoky174/nodejs-authentication`
-
-🚀🌑
