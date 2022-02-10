@@ -7,4 +7,6 @@ Tools used:
 - Bcrypt
 - Mongoose
 
-To Clone: `git clone https://github.com/Xzoky174/nodejs-authentication`
+Clone: `git clone https://github.com/Xzoky174/nodejs-authentication`
+
+Run: `node index.js` OR `nodemon index.js`
